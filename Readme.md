@@ -18,9 +18,9 @@
 
 :gear: - [Fundamentos de la programación en JS](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion)
 
-## Curso - Semana Programación avanzada
+## Programación avanzada
 
-### Lunes
+### Objetos y Clases
 
 :scroll: - [Objetos](./Objetos.md)
 
@@ -36,7 +36,7 @@
 
 :european_castle: - [Bikram](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-bikram-objetos-clases)
 
-###  Martes
+<!-- ###  Martes
 
 :scroll: - [Funciones puras](https://www.etnassoft.com/2016/06/21/las-funciones-puras-en-javascript-concepto-ejemplos-y-beneficios/)
 
@@ -90,4 +90,4 @@
 
 :shinto_shrine: - []()
 
-:european_castle: - [Quiz]()
+:european_castle: - [Quiz]() -->
