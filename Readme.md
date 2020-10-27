@@ -20,7 +20,7 @@
 
 ## Programación avanzada
 
-### Objetos y Clases
+### Objetos y Clases 
 
 :scroll: - [Objetos](./Objetos.md)
 
@@ -36,15 +36,16 @@
 
 :european_castle: - [Bikram](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-bikram-objetos-clases)
 
-<!-- ###  Martes
+###  Métodos de Arrays 
 
-:scroll: - [Funciones puras](https://www.etnassoft.com/2016/06/21/las-funciones-puras-en-javascript-concepto-ejemplos-y-beneficios/)
+:scroll: - [Métodos de Arrays](./Metodos-arrays.md)
+
+<!-- :scroll: - [Funciones puras](https://www.etnassoft.com/2016/06/21/las-funciones-puras-en-javascript-concepto-ejemplos-y-beneficios/)
 
 :scroll: - [Currificación](https://elabismodenull.wordpress.com/2016/12/08/programacion-funcional-en-javascript-la-currificacion/)
 
 :scroll: - [Composición de funciones]()
 
-:scroll: - [Métodos de Arrays](https://www.w3schools.com/js/js_array_methods.asp)
 
 :crossed_swords: - [Bikram]()
 

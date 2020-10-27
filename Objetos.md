@@ -1,4 +1,4 @@
-## Curso - Semana Programación avanzada
+## Programación avanzada
 
 ### Objetos
 
