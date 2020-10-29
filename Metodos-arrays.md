@@ -8,4 +8,6 @@
 
 :scroll: - [Métodos para iterar Arrays](https://www.w3schools.com/js/js_array_iteration.asp)
 
+:scroll: - [Métodos map() y filter()](https://javascript.info/array-methods#filter)
+
 
