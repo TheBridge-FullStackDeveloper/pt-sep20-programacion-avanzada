@@ -47,9 +47,13 @@
 :scroll: - [Currificación](https://elabismodenull.wordpress.com/2016/12/08/programacion-funcional-en-javascript-la-currificacion/)
 
 
+###  Destructuring
+
+:scroll: - [Destructuring](https://javascript.info/destructuring-assignment)
+
+:scroll: - [Spread operator](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator)
+
 <!-- :scroll: - [Composición de funciones]()
-
-
 
 :crossed_swords: - [Bikram]()
 
@@ -63,9 +67,7 @@
 
 :scroll: - [Mutabilidad]()
 
-:scroll: - [Destructuring](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Destructuring_assignment)
 
-:scroll: - [Spread operator](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator)
 
 :crossed_swords: - [Bikram]()
 
