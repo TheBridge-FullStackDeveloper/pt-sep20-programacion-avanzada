@@ -44,9 +44,11 @@
 
 :scroll: - [Funciones puras](https://www.etnassoft.com/2016/06/21/las-funciones-puras-en-javascript-concepto-ejemplos-y-beneficios/)
 
+:scroll: - [Currificación](https://elabismodenull.wordpress.com/2016/12/08/programacion-funcional-en-javascript-la-currificacion/)
+
+
 <!-- :scroll: - [Composición de funciones]()
 
-:scroll: - [Currificación](https://elabismodenull.wordpress.com/2016/12/08/programacion-funcional-en-javascript-la-currificacion/)
 
 
 :crossed_swords: - [Bikram]()

@@ -10,4 +10,4 @@
 
 :scroll: - [Métodos map() y filter()](https://javascript.info/array-methods#filter)
 
-
+:scroll: - [Método reduce()](https://javascript.info/array-methods#reduce-reduceright)
