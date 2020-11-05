@@ -51,6 +51,8 @@
 
 :scroll: - [Destructuring](https://javascript.info/destructuring-assignment)
 
+:scroll: - [Rest operator](https://javascript.info/rest-parameters-spread)
+
 :scroll: - [Spread operator](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator)
 
 <!-- :scroll: - [Composición de funciones]()
