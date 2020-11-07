@@ -40,20 +40,24 @@
 
 :scroll: - [Métodos de Arrays](./Metodos-arrays.md)
 
-###  Funciones Puras
+:scroll: - [Rest operator](https://javascript.info/rest-parameters-spread)
+
+:scroll: - [Spread operator](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator)
+
+###  Funciones
 
 :scroll: - [Funciones puras](https://www.etnassoft.com/2016/06/21/las-funciones-puras-en-javascript-concepto-ejemplos-y-beneficios/)
 
 :scroll: - [Currificación](https://elabismodenull.wordpress.com/2016/12/08/programacion-funcional-en-javascript-la-currificacion/)
 
+:scroll: - [Pipe y Compose](https://medium.com/free-code-camp/pipe-and-compose-in-javascript-5b04004ac937)
 
 ###  Destructuring
 
 :scroll: - [Destructuring](https://javascript.info/destructuring-assignment)
 
-:scroll: - [Rest operator](https://javascript.info/rest-parameters-spread)
 
-:scroll: - [Spread operator](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator)
+
 
 <!-- :scroll: - [Composición de funciones]()
 
