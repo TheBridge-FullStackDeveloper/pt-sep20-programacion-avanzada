@@ -40,9 +40,7 @@
 
 :scroll: - [Métodos de Arrays](./Metodos-arrays.md)
 
-:scroll: - [Rest operator](https://javascript.info/rest-parameters-spread)
-
-:scroll: - [Spread operator](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Spread_operator)
+:european_castle: - [Ejercicio - Juego de tronos](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md)
 
 ###  Funciones
 
@@ -50,13 +48,35 @@
 
 :scroll: - [Currificación](https://elabismodenull.wordpress.com/2016/12/08/programacion-funcional-en-javascript-la-currificacion/)
 
-:scroll: - [Pipe y Compose](https://medium.com/free-code-camp/pipe-and-compose-in-javascript-5b04004ac937)
+:scroll: - [Programación Funcional](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/03-11-2020-functional-programming/teoria.md#qu%C3%A9-es-la-programaci%C3%B3n-funcional)
 
-###  Destructuring
+:shinto_shrine: - [Ejercicios - Programación funcional](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/03-11-2020-functional-programming/ejercicio.md)
 
-:scroll: - [Destructuring](https://javascript.info/destructuring-assignment)
+:shinto_shrine: - [Ejercicios - Programación funcional - Continuación](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/05-11-2020-functional-programming/ejercicios.md)
 
 
+:scroll: - [Composición de funciones - Pipe y Compose](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/07-11-2020-functional-programming/teoria.md#problem%C3%A1tica-en-la-composici%C3%B3n)
+
+:shinto_shrine: - [Ejercicios - Programación funcional](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/07-11-2020-functional-programming/ejercicio.md)
+
+:shinto_shrine: - [Ejercicios - Programación funcional - Continuación](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/10-11-2020-functional-programming/ejercicio.md)
+
+
+### Destructuring, Spread Operator y Rest Operator
+
+:scroll: - [Destructuring](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/07-11-2020-functional-programming/teoria.md#destructuring)
+
+:scroll: - [Spread Operator](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/07-11-2020-functional-programming/teoria.md#spread-operator)
+
+:scroll: - [Rest Operator](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/07-11-2020-functional-programming/teoria.md#rest-operator)
+
+
+
+### Promesas
+
+:scroll: - [Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise)
+
+:european_castle: - [Ejercicio - Bombilla](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/12-11-2020-promesas/ejercicio.md)
 
 
 <!-- :scroll: - [Composición de funciones]()
@@ -83,7 +103,6 @@
 
 ### Jueves
 
-:scroll: - [Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise)
 
 :scroll: - [Async Await](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/funcion_asincrona)
 
